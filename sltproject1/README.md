@@ -1,4 +1,4 @@
-# Flutter Sign Language Translation
+# Ethiopian Sign Language to Amharic Text Translator (Flutter Project)
 
 This project is a Flutter application that provides sign language translation functionality using a device's camera.
 
